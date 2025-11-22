@@ -1,0 +1,120 @@
+.box3-1{
+
+ border: solid;
+ height:20em;
+ width: 30%;
+ border-left: none;
+ border-color: blue;
+}
+.box3-2{
+
+ border: solid;
+ height:20em;
+ width: 30%;
+ border-left: none;
+ border-color: blue;
+ border-top: none;
+}
+.box4-1{
+
+ border: solid;
+ height:20em;
+ width: 30%;
+ border-top: none;
+ border-color: blue;
+
+}
+.box4-2{
+border: solid;
+height:20em;
+width: 30%;
+border-top: none;
+border-left: none;
+border-bottom: none;
+border-color: blue;
+
+}
+.box5-1{
+border: solid;
+border-right: none;
+border-bottom: none;
+border-color: blue;
+height:20em;
+width: 30%;
+
+}
+.box5-2{
+   
+ border: solid;
+ height:20em;
+ width: 30%;
+ border-left: none;
+ border-color: blue; 
+}
+.box6-1{
+border: solid;
+border-right: none;
+border-bottom: none;
+border-color: blue;
+height:20em;
+width: 30%;
+}
+.box6-2{
+
+    border: solid;
+    border-color: blue ;
+    height:20em;
+    width: 30%;
+}
+.box7-1{
+border: solid;
+height:20em;
+width: 30%;
+border-left: none;
+border-bottom: none;
+border-color: blue;
+}
+.box7-2{
+   border: solid;
+height:20em;
+width: 30%;
+ border-color: blue;
+ border-left: none;
+ border-bottom: none;
+}
+.box8-1{
+border: solid;
+height:20em;
+width: 30%;
+border-color: blue;
+}
+.box8-2{
+border: solid;
+height:20em;
+width: 30%;
+border-top: none;
+border-color: blue;
+}
+.box9-1{
+border: solid;
+height:20em;
+width: 30%;
+border-color: blue;
+}
+.box9-2{
+border: solid;
+height:20em;
+width: 30%;
+border-left: none;    
+border-top:none;
+border-color: blue;
+}
+.box10-1{
+border: solid;
+height:20em;
+width: 30%;
+border-left: none;
+border-bottom: none;
+border-top: none;
+border-color: blue;
+}
